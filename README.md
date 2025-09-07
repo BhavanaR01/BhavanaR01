@@ -1,6 +1,9 @@
 👩‍💻 Hey, I’m Bhavana R!
+
 ✨ Turning raw data into real insights & stories ✨
+
 🚀 From Test Engineer → Data Analyst, my journey is all about solving problems, decoding patterns, and helping decisions powered by data & analytics.
+
 ⚡ What I Do
 🔹 Data Analytics: Python | SQL | Excel | Power BI
 🔹 Visualization: Dashboards, Storytelling, KPIs
