@@ -1,16 +1,38 @@
-## Hi there 👋
+👩‍💻 Hey, I’m Bhavana R!
 
-<!--
-**BhavanaR01/BhavanaR01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Turning raw data into real insights & stories ✨
 
-Here are some ideas to get you started:
+🚀 From Test Engineer → Data Analyst, my journey is all about solving problems, decoding patterns, and helping decisions powered by data & analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ What I Do
+
+🔹 Data Analytics: Python | SQL | Excel | Power BI
+🔹 Visualization: Dashboards, Storytelling, KPIs
+🔹 Statistics: Descriptive & Inferential for decision-making
+🔹 Teaching: DBMS & Discrete Structures @ Bangalore University
+
+💡 I believe data isn’t just numbers — it’s a language that reveals hidden stories.
+
+📊 Featured Projects
+
+🔸 Retail Sales Dashboard – Power BI dashboards for sales & revenue insights
+🔸 E-Commerce SQL Analysis – Advanced queries for sales & order management
+🔸 Supermarket Data Insights – Excel analysis on customer & delivery trends
+
+👉 Check them out in my Repositories!
+
+💼 Work Snapshot
+
+🎓 Guest Faculty @ Bangalore University (2025–Present)
+
+🖥️ Software Test Engineer @ LG Soft India (2022–2023)
+
+🌐 Let’s Connect!
+
+📩 bhavanargowda0128@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/bhavanar0128
+
+
+
+🔥 Always curious. Always learning. Always analyzing.
