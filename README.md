@@ -1,22 +1,19 @@
-👩‍💻 Hey, I’m Bhavana R!
+Hi there! 👋 
+I’m an Aspiring Data Analyst with a background in Software Testing 🧪. My testing journey has trained me to be detail-oriented 🔍, curious 🤔, and quality-focused ✅ — skills I now love applying to the world of data 📊.
 
-✨ Turning raw data into real insights & stories ✨
+💡 What I’ve been up to:
+🔹 SQL 🗄️ – querying, analyzing, and solving case-based business problems
+🔹 Python (Pandas & NumPy) 🐍 – cleaning, transforming, and exploring real datasets
+🔹 Data Visualization 📈 – turning raw numbers into stories with Excel, Matplotlib & Seaborn
+🔹 Manual Testing 📝 – ensuring quality and precision through detailed test case design & execution
+🔹 Projects & Case Studies 💼 – working with Uber, Swiggy, Zomato, and PhonePe datasets
 
-🚀 From Test Engineer → Data Analyst, my journey is all about solving problems, decoding patterns, and helping decisions powered by data & analytics.
+🚀 I love playing with data — spotting patterns, solving puzzles, and discovering insights that matter.
 
-⚡ What I Do
-🔹 Data Analytics: Python | SQL | Excel | Power BI
-🔹 Visualization: Dashboards, Storytelling, KPIs
-🔹 Statistics: Descriptive & Inferential for decision-making
-🔹 Teaching: DBMS & Discrete Structures @ Bangalore University
+🤝 I’m excited to connect with fellow data enthusiasts, analysts, and recruiters. If you’re looking for someone who brings testing precision + data passion, feel free to check out my profile — I’d love to explore opportunities!
 
-💡 I believe data isn’t just numbers — it’s a language that reveals hidden stories.
+🌟 Let’s connect, share ideas, and grow together in the world of data!
 
-💼 Work Snapshot
-🎓 Guest Faculty @ Bangalore University (2025–Present)
-🖥️ Software Test Engineer @ LG Soft India (2022–2023)
-
-🌐 Let’s Connect!
 📩 bhavanargowda0128@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/bhavanar0128
 
