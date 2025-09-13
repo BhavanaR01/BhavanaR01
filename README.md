@@ -18,15 +18,15 @@ Developed Shell scripts, executed test cases, reported defects, and validated bu
 
 Improved testing efficiency and ensured stability of Linux-based Smart TV services
 
-💡 What I’ve Worked On in Data Analytics
+💡 Data Analytics Skills
 
-Built interactive dashboards to analyze sales, revenue, delivery, and customer behavior using Power BI
+Created advanced SQL queries to analyze data and generate insights
 
-Designed advanced SQL queries for segmentation, trend analysis, and performance insights
+Built dashboards and visualizations using Power BI
 
-Conducted Excel-based analysis using Pivot Tables, formulas, and charts for operational improvements
+Performed data analysis in Excel using Pivot Tables, formulas, and charts
 
-Applied statistics & problem-solving to uncover insights and drive better decision-making
+Applied analytical thinking to solve data-related problems
 
 🛠️ Skills I Love Working With
 ➡️ SQL, Python, Excel, Power BI
