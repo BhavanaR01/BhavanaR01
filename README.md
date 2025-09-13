@@ -5,9 +5,13 @@ Hi there! 👋 I’m an Aspiring Data Analyst with a background in Software Test
 
 💡 What I’ve been up to:
 🔹 SQL 🗄️ – querying, analyzing, and solving case-based business problems
+
 🔹 Python (Pandas & NumPy) 🐍 – cleaning, transforming, and exploring real datasets
+
 🔹 Data Visualization 📊 – building insights with Excel, Power BI, Matplotlib & Seaborn
+
 🔹 Manual Testing 📝 – ensuring quality and precision through detailed test case design & execution
+
 🔹 Projects & Case Studies 💼 – working with Uber, Swiggy, Zomato, and PhonePe datasets
 
 🌱 Outside of work, you’ll usually find me:
