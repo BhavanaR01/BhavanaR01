@@ -1,7 +1,7 @@
 🔍 From Testing Bugs 🧪 to Testing Insights 📊 — Aspiring Data Analyst on a Growth Journey 🚀
 
-✨ About Me
-Hi there! 👋 I’m Bhavana R, an Aspiring Data Analyst with hands-on experience in Software Testing and Teaching, now building my career in data analytics. My journey combines testing precision, teaching clarity, and a passion for playing with data to discover insights.
+✨ Hi there! 
+👋 I’m Bhavana R, an Aspiring Data Analyst with hands-on experience in Software Testing and Teaching, now building my career in data analytics. My journey combines testing precision, teaching clarity, and a passion for playing with data to discover insights.
 
 💼 Experience
 📌 Bangalore University (Jul 2025 – Present) – Guest Faculty
